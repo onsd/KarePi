@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3B6362BE204855CC00CE0628 /* woman01_laugh.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B6362BB204855CC00CE0628 /* woman01_laugh.png */; };
+		3B6362BF204855CC00CE0628 /* woman04_cry.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B6362BC204855CC00CE0628 /* woman04_cry.png */; };
+		3B6362C0204855CC00CE0628 /* woman03_smile.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B6362BD204855CC00CE0628 /* woman03_smile.png */; };
+		3B6362C620485A7C00CE0628 /* man04_cry.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B6362C120485A7C00CE0628 /* man04_cry.png */; };
+		3B6362C720485A7C00CE0628 /* man01_laugh.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B6362C220485A7C00CE0628 /* man01_laugh.png */; };
+		3B6362C820485A7C00CE0628 /* man03_smile.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B6362C320485A7C00CE0628 /* man03_smile.png */; };
+		3B6362C920485A7C00CE0628 /* man02_angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B6362C420485A7C00CE0628 /* man02_angry.png */; };
+		3B6362CA20485A7C00CE0628 /* woman02_angry.png in Resources */ = {isa = PBXBuildFile; fileRef = 3B6362C520485A7C00CE0628 /* woman02_angry.png */; };
 		3BE6646F2048427900F76A8A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE6646E2048427900F76A8A /* AppDelegate.swift */; };
 		3BE664712048427900F76A8A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BE664702048427900F76A8A /* ViewController.swift */; };
 		3BE664742048427900F76A8A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BE664722048427900F76A8A /* Main.storyboard */; };
@@ -34,6 +42,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3B6362BB204855CC00CE0628 /* woman01_laugh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = woman01_laugh.png; sourceTree = "<group>"; };
+		3B6362BC204855CC00CE0628 /* woman04_cry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = woman04_cry.png; sourceTree = "<group>"; };
+		3B6362BD204855CC00CE0628 /* woman03_smile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = woman03_smile.png; sourceTree = "<group>"; };
+		3B6362C120485A7C00CE0628 /* man04_cry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = man04_cry.png; sourceTree = "<group>"; };
+		3B6362C220485A7C00CE0628 /* man01_laugh.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = man01_laugh.png; sourceTree = "<group>"; };
+		3B6362C320485A7C00CE0628 /* man03_smile.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = man03_smile.png; sourceTree = "<group>"; };
+		3B6362C420485A7C00CE0628 /* man02_angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = man02_angry.png; sourceTree = "<group>"; };
+		3B6362C520485A7C00CE0628 /* woman02_angry.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = woman02_angry.png; sourceTree = "<group>"; };
 		3BE6646B2048427900F76A8A /* KarePi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KarePi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3BE6646E2048427900F76A8A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3BE664702048427900F76A8A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -81,6 +97,14 @@
 				3BE664822048427900F76A8A /* KarePiTests */,
 				3BE6648D2048427900F76A8A /* KarePiUITests */,
 				3BE6646C2048427900F76A8A /* Products */,
+				3B6362BB204855CC00CE0628 /* woman01_laugh.png */,
+				3B6362BD204855CC00CE0628 /* woman03_smile.png */,
+				3B6362BC204855CC00CE0628 /* woman04_cry.png */,
+				3B6362C220485A7C00CE0628 /* man01_laugh.png */,
+				3B6362C420485A7C00CE0628 /* man02_angry.png */,
+				3B6362C320485A7C00CE0628 /* man03_smile.png */,
+				3B6362C120485A7C00CE0628 /* man04_cry.png */,
+				3B6362C520485A7C00CE0628 /* woman02_angry.png */,
 			);
 			sourceTree = "<group>";
 		};
@@ -233,8 +257,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				3BE664792048427900F76A8A /* LaunchScreen.storyboard in Resources */,
+				3B6362BF204855CC00CE0628 /* woman04_cry.png in Resources */,
+				3B6362C820485A7C00CE0628 /* man03_smile.png in Resources */,
+				3B6362C620485A7C00CE0628 /* man04_cry.png in Resources */,
+				3B6362CA20485A7C00CE0628 /* woman02_angry.png in Resources */,
+				3B6362C920485A7C00CE0628 /* man02_angry.png in Resources */,
+				3B6362C0204855CC00CE0628 /* woman03_smile.png in Resources */,
 				3BE664762048427900F76A8A /* Assets.xcassets in Resources */,
 				3BE664742048427900F76A8A /* Main.storyboard in Resources */,
+				3B6362BE204855CC00CE0628 /* woman01_laugh.png in Resources */,
+				3B6362C720485A7C00CE0628 /* man01_laugh.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,6 +459,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 29T28D8U3C;
 				INFOPLIST_FILE = KarePi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = onsd.KarePi;
@@ -441,6 +474,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 29T28D8U3C;
 				INFOPLIST_FILE = KarePi/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = onsd.KarePi;
